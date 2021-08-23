@@ -8,10 +8,9 @@ In this system I have calculated cosine distance between each movie with everyot
 # Results
 
 Input Movie name in the BOX
-![Front page app](https://user-images.githubusercontent.com/55012359/130496028-fb61afeb-ee46-4030-8836-c4ccdfd71d37.PNG)
-
-Outputwill give 5 movies list
 ![front app 2](https://user-images.githubusercontent.com/55012359/130496053-d2b3bc3f-f92a-4976-ae85-f2f916dfdd53.PNG)
 
 
+Outputwill give 5 movies list
 
+![Front page app](https://user-images.githubusercontent.com/55012359/130496028-fb61afeb-ee46-4030-8836-c4ccdfd71d37.PNG)
